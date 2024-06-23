@@ -2,11 +2,11 @@
 Hello everyone, my name is Nguyen Thanh Hung 
 
 👋 I'm a developer, and open-source contributor!  
-📫 I'm living in Go Vap, Ho Chi Minh City, Vietnam. \\
-🎓 I'm a 4th year student at Ho Chi Minh City University of Transport \\
-📚 I'm majoring in Information Technology.\\
-🏢 I'm currently working as Front-end Developer.\\
-🔭 I’m currently working on personal projects!\\
+📫 I'm living in Go Vap, Ho Chi Minh City, Vietnam.  
+🎓 I'm a 4th year student at Ho Chi Minh City University of Transport  
+📚 I'm majoring in Information Technology.  
+🏢 I'm currently working as Front-end Developer.  
+🔭 I’m currently working on personal projects!  
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thanhhung2703/)
