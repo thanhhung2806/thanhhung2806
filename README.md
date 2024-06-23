@@ -1,7 +1,7 @@
 # 💫About Me :
 Hello everyone, my name is Nguyen Thanh Hung 
 
-👋 I'm a developer, and open-source contributor! \\
+👋 I'm a developer, and open-source contributor!  
 📫 I'm living in Go Vap, Ho Chi Minh City, Vietnam. \\
 🎓 I'm a 4th year student at Ho Chi Minh City University of Transport \\
 📚 I'm majoring in Information Technology.\\
